@@ -1,1 +1,0 @@
-This folder is to store all the rendered frames (you'll need to set it up in blender), once all the frames are here, you'll need to create the animation using them, good luck!
